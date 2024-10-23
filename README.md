@@ -12,8 +12,8 @@ Tenemos acceso a los datos de comportamiento de los suscriptores que ya se han c
 1.  Inicializacion y carga de datos
 2.  Segmenta los datos
 3.  Modelos
-3.1  [![Arbol de decision](ima\Modelo_arbol.png "Resultados Arbol de decision")]
-3.2  [![Bosque aleatorio](ima\Modelo_bosque.png "Resultados bosque aleatorio")]
-3.3  [![Regresion logistica](ima\Regresion.png "Resultados regresion logistica")]
+3.1  [![Arbol de decision](ima/Modelo_arbol.png "Resultados Arbol de decision")]
+3.2  [![Bosque aleatorio](ima/Modelo_bosque.png "Resultados bosque aleatorio")]
+3.3  [![Regresion logistica](ima/Regresion.png "Resultados regresion logistica")]
 4.  Comprobar la calidad del modelo
 5.  Conclusion
